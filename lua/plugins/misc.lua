@@ -2,8 +2,7 @@
 return {
   {
     -- Tmux & split window navigation
-    -- host use 'vim-tmux-navigator' instead , so this is need be disabled on docker neovim
-    -- 'christoomey/vim-tmux-navigator',
+    'christoomey/vim-tmux-navigator',
   },
   {
     -- Detect tabstop and shiftwidth automatically
