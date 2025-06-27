@@ -30,4 +30,5 @@ require('lazy').setup {
   require 'plugins.misc',
   require 'plugins.translate',
   require 'plugins.copilot',
+  require 'plugins.lazygit',
 }
